@@ -1,0 +1,9 @@
+track enhancerAssay
+bigDataUrl data/enhancer.bigBed
+shortLabel Enhancer Assay
+longLabel Enhancer Assay in bigBed format
+type bigBed 9 +
+itemRgb on
+url http://enhancer.lbl.gov/cgi-bin/imagedb3.pl?form=presentation&show=1&experiment_id=$$&organism_id=1
+urlLabel Vista Enhancer Browser
+bigNameLabel Human element

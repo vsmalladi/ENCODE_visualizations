@@ -1,0 +1,4 @@
+#File that includes other trackDb files regrading configuration and vizualization options for ENCODE Data
+
+#Vizualization for Len Pennacchio's enhancer assay data
+include enhancerAssay.txt
