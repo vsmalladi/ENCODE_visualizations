@@ -1,5 +1,5 @@
 track enhancerHuman
-bigDataUrl data/enhancers_human.bigBed
+bigDataUrl data/enhancers_liftover_human_mouse.bigBed
 shortLabel Enhancer Human
 longLabel Enhancer Assay Human tested sequence
 type bigBed 9 +
@@ -9,7 +9,7 @@ urlLabel Vista Enhancer Browser
 bedNameLabel Human element
 
 track enhancerMouse
-bigDataUrl data/enhancers_liftover_mouse_human.bigBed
+bigDataUrl data/enhancers_mouse.bigBed
 shortLabel Enhancer Mouse
 longLabel Enhancer Assay Mouse tested sequence
 type bigBed 9 +
