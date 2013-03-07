@@ -17,3 +17,24 @@ itemRgb on
 url http://enhancer.lbl.gov/cgi-bin/imagedb3.pl?form=presentation&show=1&experiment_id=$$&organism_id=2
 urlLabel Vista Enhancer Browser
 bedNameLabel Mouse element
+
+track altenhancerHuman
+bigDataUrl data/enhancer_Human.bigBed
+shortLabel Enhancer Human Alt
+longLabel Enhancer Assay Human tested sequence (Alt)
+type bigBed 9 +
+itemRgb on
+url http://enhancer.lbl.gov/cgi-bin/imagedb3.pl?form=presentation&show=1&experiment_id=$P&organism_id=1
+urlLabel Vista Enhancer Browser
+bedNameLabel Human element
+
+track altenhancerMouse
+bigDataUrl data/enhancer_liftover_Mouse_Human.bigBed
+shortLabel Enhancer Mouse Alt
+longLabel Enhancer Assay Mouse tested sequence (Alt)
+type bigBed 9 +
+itemRgb on
+url http://enhancer.lbl.gov/cgi-bin/imagedb3.pl?form=presentation&show=1&experiment_id=$P&organism_id=2
+urlLabel Vista Enhancer Browser
+bedNameLabel Mouse element
+
